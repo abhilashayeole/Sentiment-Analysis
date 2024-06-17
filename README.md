@@ -1,2 +1,5 @@
-# Sentiment-Analysis
-a system to analyze and visualize the sentiment of social media posts, providing insights into public opinion on various topics.
+# Social-Media-Sentiment-Analysis-Using-Machine-Learning
+A Machine Learning Model to analyse the nature of tweets and classify them as Positive/Negative
+
+
+### This is a Mini-Project as assigned by Graphic Era University.
